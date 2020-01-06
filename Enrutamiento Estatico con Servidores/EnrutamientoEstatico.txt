@@ -1,0 +1,5 @@
+<div align="center">
+  <p>Bienvenidos</p>
+  <p>Redes LAN y Enrutamiento B&aacute;sico</p>
+  <p>Ejercicio de Simulaci&oacute;n 2: Rutas Est&aacute;ticas y Conmutaci&oacute;n Multicapa </p>
+</div>
